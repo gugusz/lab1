@@ -1,5 +1,6 @@
 Ala ma kota
 Kot ma Ale
 Zupa
-Romana
-!!!!
+Noawa linia 1
+Nowa linia 2
+Nowa linia 3
